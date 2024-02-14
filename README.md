@@ -1,4 +1,4 @@
-## I have a web application for appointment scheduling. In this application, clients can view and book appointments, check their upcoming appointments, manage client records, handle financial transactions through a cash register feature, and generate revenue analysis reports
+## I have a web application for appointment scheduling. In this application, clients can view and book appointments, check their upcoming appointments, manage client records, handle financial transactions through a cash register feature, and generate revenue analysis reports.
 ## Link: https://benefinityapp.com/login
 ## login info :
  username: alireza   
